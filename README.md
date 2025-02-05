@@ -1,3 +1,3 @@
-meu projeto falso
-ainda vou conectar com django mesmo que não va rodar em um site
+Meu projeto falso
+Ainda vou conectar com django mesmo que não va rodar em um site
 
